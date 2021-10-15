@@ -129,7 +129,7 @@ Each elected officer shall hold their position for one year, starting in the Spr
   3. Work in tandem with the President to achieve their responsibilities
 4. **Administrative Coordinator**
   1. Manage general (non-event related) fundraising efforts
-  2. Oversee the OrganOrganization&#39;sization&#39;s account (balance and reimbursements)
+  2. Oversee the Organization&#39;s account (balance and reimbursements)
   3. Record minutes at General and Executive Meetings
   4. Track regular membership point standings
 5. **Communications Coordinator**
