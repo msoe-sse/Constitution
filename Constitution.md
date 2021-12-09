@@ -73,28 +73,28 @@ culture, or sexual orientation.
 ## **Section 3:** Types of Members
 
 1. REGULAR members
-  1. REGULAR members are those members who have earned at least 10 points in the current quarter and have the right to
-  vote in any non-executive organization vote. Regular members may earn points for the following:
-    1. General Meeting: 10 pts
-    2. Event Attendee: 10 pts
-    3. Helping w/ Event/Project: 20 pts
-      1. Game development club, website, any event
-    4. Leadership Role in Organization/Project: 30 pts
-      1. Game development club, website, any event
-  2. Members with zero points at any given time are considered INACTIVE.
-  3. Points reset to zero at the beginning of each quarter. At the end of each quarter, a raffle will be held and each
-  10pts had by member corresponds to one raffle entry.
+    1. REGULAR members are those members who have earned at least 10 points in the current quarter and have the right to
+    vote in any non-executive organization vote. Regular members may earn points for the following:
+        1. General Meeting: 10 pts
+        2. Event Attendee: 10 pts
+        3. Helping w/ Event/Project: 20 pts
+            1. Game development club, website, any event
+        4. Leadership Role in Organization/Project: 30 pts
+            1. Game development club, website, any event
+    2. Members with zero points at any given time are considered INACTIVE.
+    3. Points reset to zero at the beginning of each quarter. At the end of each quarter, a raffle will be held and each
+    10pts had by member corresponds to one raffle entry.
 2. ALUMNI members
-  1. ALUMNI members are those who have graduated from MSOE with REGULAR member standing or those who have been granted
-  ALUMNI status by a simple majority vote of the Executive board. ALUMNI members do not have the right to vote unless
-  all ALUMNI members have been given the right to vote on a specific vote, such permission being granted by a ⅔ majority
-  vote of the Executive board.
+    1. ALUMNI members are those who have graduated from MSOE with REGULAR member standing or those who have been granted
+    ALUMNI status by a simple majority vote of the Executive board. ALUMNI members do not have the right to vote unless
+    all ALUMNI members have been given the right to vote on a specific vote, such permission being granted by a ⅔
+    majority vote of the Executive board.
 3. SPONSOR members
-  1. SPONSOR membership is granted to any organization, company, or individual (including professors) by a simple
-  majority vote of the Executive board. SPONSOR members do not have the right to vote unless all SPONSOR members have
-  been given the right to vote on a specific vote, such permission being granted by a ⅔ majority vote of the Executive
-  board.
-  2. The Faculty Advisor is automatically a SPONSOR member.
+    1. SPONSOR membership is granted to any organization, company, or individual (including professors) by a simple
+    majority vote of the Executive board. SPONSOR members do not have the right to vote unless all SPONSOR members have
+    been given the right to vote on a specific vote, such permission being granted by a ⅔ majority vote of the Executive
+    board.
+    2. The Faculty Advisor is automatically a SPONSOR member.
 
 ## ARTICLE III: Officers
 
@@ -117,53 +117,53 @@ two REGULAR MEMBERS (not including the candidate) prior to running for any execu
 ## **Section 3:** Officer Responsibilities
 
 1. **All Officers**
-  1. Attend scheduled Executive Board Meetings
-    1. Provide digital notice of absence in Slack channel at least 5 minutes before meeting
-    2. An officer should not miss more than two consecutive meetings
-  2. Should make an effort to attend General Meetings
+    1. Attend scheduled Executive Board Meetings
+        1. Provide digital notice of absence in Slack channel at least 5 minutes before meeting
+        2. An officer should not miss more than two consecutive meetings
+    2. Should make an effort to attend General Meetings
 2. **President**
-  1. Plan and lead General meetings
-  2. Plan and lead Executive meetings
-  3. Curate organization project opportunities
-  4. Work in tandem with the VP to achieve their responsibilities
+    1. Plan and lead General meetings
+    2. Plan and lead Executive meetings
+    3. Curate organization project opportunities
+    4. Work in tandem with the VP to achieve their responsibilities
 3. **Vice President**
-  1. Serve as a liaison for University faculty and administration, industry representatives, and members of the local
-  community
-  2. Curate job postings and career opportunities
-  3. Work in tandem with the President to achieve their responsibilities
+    1. Serve as a liaison for University faculty and administration, industry representatives, and members of the local
+    community
+    2. Curate job postings and career opportunities
+    3. Work in tandem with the President to achieve their responsibilities
 4. **Administrative Coordinator**
-  1. Manage general (non-event related) fundraising efforts
-  2. Oversee the Organization's account (balance and reimbursements)
-  3. Record minutes at General and Executive Meetings
-  4. Track regular membership point standings
+    1. Manage general (non-event related) fundraising efforts
+    2. Oversee the Organization's account (balance and reimbursements)
+    3. Record minutes at General and Executive Meetings
+    4. Track regular membership point standings
 5. **Communications Coordinator**
-  1. Serve as a liaison for leaders of other organizations on campus
-  2. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
-  3. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
-  4. Forward high-impact updates from individual members to the general membership
+    1. Serve as a liaison for leaders of other organizations on campus
+    2. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
+    3. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
+    4. Forward high-impact updates from individual members to the general membership
 6. **Event Coordinator**
-  1. Oversee / guide event committees to ensure events contribute to Organizational goals
-  2. Manage SSE room and equipment reservations on the University's room reservation software
-  3. Refer to the event feedback forms from the previous year when planning new or recurring events
-  4. Maintain SSE event calendar
+    1. Oversee / guide event committees to ensure events contribute to Organizational goals
+    2. Manage SSE room and equipment reservations on the University's room reservation software
+    3. Refer to the event feedback forms from the previous year when planning new or recurring events
+    4. Maintain SSE event calendar
 7. **Competitive Programming Team Coordinator**
-  1. Actively recruit and develop members of the team
-  2. Apply for competitions within the area, and if budget allows, in the US
-  3. Apply for grants and scholarships to waive competition fees
-    1. Maintain relationships with new and existing sponsors
+    1. Actively recruit and develop members of the team
+    2. Apply for competitions within the area, and if budget allows, in the US
+    3. Apply for grants and scholarships to waive competition fees
+        1. Maintain relationships with new and existing sponsors
 8. **Game Development**
-  1. Incite and maintain conversation in the #gamedev channel
-  2. Recruit students to join ongoing projects or create their own
-  3. Showcase projects at recruitment events (such as the annual Org Fair)
-  4. Actively engage with the game development community in Milwaukee
+    1. Incite and maintain conversation in the #gamedev channel
+    2. Recruit students to join ongoing projects or create their own
+    3. Showcase projects at recruitment events (such as the annual Org Fair)
+    4. Actively engage with the game development community in Milwaukee
 9. **Webmaster**
-  1. Manage SSE website discussions and content
-  2. Maintain Organization membership and mailing lists
-  3. Manage merge requests and/or a backlog for said website
+    1. Manage SSE website discussions and content
+    2. Maintain Organization membership and mailing lists
+    3. Manage merge requests and/or a backlog for said website
 10. **Alumni Outreach Coordinator**
-  1. Manage and grow the Organization's alumni network
-  2. Solicit donations from alumni as needed
-  3. Provide guidance and membership for student board members
+    1. Manage and grow the Organization's alumni network
+    2. Solicit donations from alumni as needed
+    3. Provide guidance and membership for student board members
 
 ## **Section 4:** Removal of an Officer
 
@@ -177,21 +177,21 @@ General Meeting at least two weeks in advance.
 ## **Section 1:** Types of Meetings
 
 1. GENERAL meetings
-  1. The cadence for GENERAL meetings are to be established within the first quarter with the new Executive Board. At
-  the time of this revision, the current executive board has decided that General meetings are to be held on Friday at
-  12 noon on weeks 3, 6, and 9 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss
-  the direction of the organization, and inform the members of upcoming events and opportunities.
+    1. The cadence for GENERAL meetings are to be established within the first quarter with the new Executive Board. At
+    the time of this revision, the current executive board has decided that General meetings are to be held on Friday at
+    12 noon on weeks 3, 6, and 9 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss
+    the direction of the organization, and inform the members of upcoming events and opportunities.
 2. EXECUTIVE meetings
-  1. EXECUTIVE should be organized by the PRESIDENT or VICE-PRESIDENT at the beginning of each new quarter, so as to
-  reflect changing schedules. The cadence is to be set by the Executive Board as a whole with a complete majority, but
-  it may not descend in frequency beyond bi-weekly meetings.
+    1. EXECUTIVE should be organized by the PRESIDENT or VICE-PRESIDENT at the beginning of each new quarter, so as to
+    reflect changing schedules. The cadence is to be set by the Executive Board as a whole with a complete majority, but
+    it may not descend in frequency beyond bi-weekly meetings.
 3. SPECIAL meetings
-  1. SPECIAL meetings may be called by the PRESIDENT or VICE-PRESIDENT with at least a ONE(1) week notice, the topic of
-  which is to be decided by organizer. Attendance of the Executive Board is mandatory.
+    1. SPECIAL meetings may be called by the PRESIDENT or VICE-PRESIDENT with at least a ONE(1) week notice, the topic
+    of which is to be decided by organizer. Attendance of the Executive Board is mandatory.
 4. SUB-CLUB meetings
-  1. SUB-CLUB meetings include regular meetings for each the website, game development, competitive programming, and any
-  other team that may form. These should be set by the respective coordinator or team lead, and should be subject to
-  change each quarter with changing schedules.
+    1. SUB-CLUB meetings include regular meetings for each the website, game development, competitive programming, and
+    any other team that may form. These should be set by the respective coordinator or team lead, and should be subject
+    to change each quarter with changing schedules.
 
 ## **Section 2:** Voting and Decision Making Process
 
