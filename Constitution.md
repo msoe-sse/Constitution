@@ -111,8 +111,8 @@ status becomes inactive, a replacement will be appointed by the Executive Board 
 
 Each elected officer shall hold their position for one year, starting in the Spring term. Yearly elections are to begin
 in late Winter term. Voting should occur the during the General Meeting during the 9th week of the Winter quarter.
-Election information should be distributed at least 2 weeks prior. Potential candidates must be nominated by at least
-two REGULAR MEMBERS (not including the candidate) prior to running for any executive position.
+Election information should be distributed at least 2 weeks prior. Potential candidates must be a REGULAR MEMBER and
+be nominated by at least one REGULAR MEMBER during the REGULAR MEETING prior to any election for any executive position.
 
 ## **Section 3:** Officer Responsibilities
 
