@@ -96,6 +96,8 @@ The Organization's Executive Board shall consist of the President, Vice Presiden
 
 Each elected officer shall hold their position for one year, starting in the Spring term. Yearly elections are to begin in the late Winter term. Voting should occur during the last General Meeting of the Winter quarter. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
 
+Non-elected officers are appointed by the Executive Board do not have EXECUTIVE voting power.
+
 ## **Section 3:** Officer Responsibilities
 
 1. **All Officers**
@@ -105,33 +107,38 @@ Each elected officer shall hold their position for one year, starting in the Spr
     2. Should make an effort to attend General Meetings
 
 2. **President**
-    1. Plan and lead General meetings
-    2. Plan and lead Executive meetings
-    3. Curate organization project opportunities
-    4. Work in tandem with the VP to achieve their responsibilities
+    1. Elected by REGULAR MEMBERS
+    2. Plan and lead General meetings
+    3. Plan and lead Executive meetings
+    4. Curate organization project opportunities
+    5. Work in tandem with the VP to achieve their responsibilities
 
 3. **Vice President**
-    1. Serve as a liaison for University faculty and administration, industry representatives, and members of the local community
-    2. Curate job postings and career opportunities
-    3. Work in tandem with the President to achieve their responsibilities
+    1. Elected by REGULAR MEMBERS
+    2. Serve as a liaison for University faculty and administration, industry representatives, and members of the local community
+    3. Curate job postings and career opportunities
+    4. Work in tandem with the President to achieve their responsibilities
 
 4. **Administrative Coordinator**
-    1. Manage general (non-event related) fundraising efforts
-    2. Oversee the Organization's account (balance and reimbursements)
-    3. Record minutes at General and Executive Meetings
-    4. Track regular membership point standings
+    1. Elected by REGULAR MEMBERS
+    2. Manage general (non-event related) fundraising efforts
+    3. Oversee the Organization's account (balance and reimbursements)
+    4. Record minutes at General and Executive Meetings
+    5. Track regular membership point standings
 
 5. **Communications Coordinator**
-    1. Serve as a liaison for leaders of other organizations on campus
-    2. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
-    3. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
-    4. Forward high-impact updates from individual members to the general membership
+    1. Elected by REGULAR MEMBERS
+    2. Serve as a liaison for leaders of other organizations on campus
+    3. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
+    4. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
+    5. Forward high-impact updates from individual members to the general membership
 
 6. **Event Coordinator**
-    1. Oversee/guide event committees to ensure events contribute to Organizational goals
-    2. Manage SSE room and equipment reservations on the University's room reservation software
-    3. Refer to the event feedback forms from the previous year when planning new or recurring events
-    4. Maintain SSE event calendar
+    1. Elected by REGULAR MEMBERS
+    2. Oversee/guide event committees to ensure events contribute to Organizational goals
+    3. Manage SSE room and equipment reservations on the University's room reservation software
+    4. Refer to the event feedback forms from the previous year when planning new or recurring events
+    5. Maintain SSE event calendar
 
 7. **Competitive Programming Team Coordinator**
     1. Actively recruit and develop members of the team
@@ -151,15 +158,17 @@ Each elected officer shall hold their position for one year, starting in the Spr
     3. Manage merge requests and a backlog for said website
 
 10. **Alumni Outreach Coordinator**
-    1. Manage and grow the Organization's alumni network
-    2. Solicit donations from alumni as needed
-    3. Provide guidance and membership for student board members
+    1. Are appointed by the EXECUTIVE Board 
+    2. Must have been on the EXECUTIVE Board before being granted Alumni Status
+    3. Appointed Officer needs to be at least two years out from graduation
+    4. Manage and grow the Organization's alumni network
+    5. Solicit donations from alumni as needed
+    6. Provide guidance and membership for student board members
 
 11. **External Coordinators**
-    1. Are subject to this document and any rules and regulations of their Organization 
-    2. Are not elected by GENERAL members
-    3. Sit in on EXECUTIVE Board meetings 
-    4. Do not have EXECUTIVE voting power
+    1. Are appointed by the EXECUTIVE Board 
+    2. Are subject to this document and any rules and regulations of their Organization 
+    4. Sit in on EXECUTIVE Board meetings 
 
 ## **Section 4:** Removal of an Officer
 
