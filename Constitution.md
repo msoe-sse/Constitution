@@ -2,7 +2,7 @@
 
 **Last Ratified:** November 2, 2018
 
-**Last Edited:** April 8, 2022
+**Last Edited:** December 8, 2022
 
 ## Table of Contents
 
@@ -73,10 +73,11 @@ Members must be pursuing (or already hold) a degree from MSOE (excluding sponsor
     1. REGULAR members are those members who have earned at least 10 points in the current quarter and have the right to vote in any non-executive organization vote. Regular members may earn points for the following:
         1. General Meeting: 10 pts
         2. Event Attendee: 5 pts
-        3. Subclub Meeting: 2 pts
-        4. Helping w/ Event/Project: 20 pts
+        3. Subclub Meeting: 3 pts
+        4. Social Media/Discord Participation (Limited Per Month): 2 pts
+        5. Helping w/ Event/Project: 20 pts
             1. Game development club, website, any event
-        5. Leadership Role in Organization/Project: 30 pts
+        6. Leadership Role in Organization/Project: 30 pts
             1. Game development club, website, any event
     2. Members with zero points at any given time are considered INACTIVE.
     3. Points reset to zero at the beginning of each quarter. A raffle will be held at the end of each quarter, and each 3 pts had by a member corresponds to one raffle entry.
@@ -94,7 +95,7 @@ The Organization's Executive Board shall consist of the President, Vice Presiden
 
 ## **Section 2:** Election of Officers
 
-Each elected officer shall hold their position for one year, starting in the Spring term. Yearly elections are to begin in the late Winter term. Voting should occur during the last General Meeting of the Winter quarter. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
+Each elected officer shall hold their position for one year, starting in the beginning of March (elections must be held by the end of March at minimum). This is to allow time for the new board to be trained and to gain experience running SSE before the new school year starts. Yearly elections are to begin in the late January or throughout Feburary as determined by the board. Nominations must occur at a GENERAL meeting prior to a seperate GENERAL meeting where the vote will occur. Voting should occur by the end of Feburary in a GENERAL meeting. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
 
 ## **Section 3:** Officer Responsibilities
 
@@ -109,6 +110,7 @@ Each elected officer shall hold their position for one year, starting in the Spr
     2. Plan and lead Executive meetings
     3. Curate organization project opportunities
     4. Work in tandem with the VP to achieve their responsibilities
+    5. Is able to view the balance of the Student Account, but not withdraw money
 
 3. **Vice President**
     1. Serve as a liaison for University faculty and administration, industry representatives, and members of the local community
@@ -161,6 +163,12 @@ Each elected officer shall hold their position for one year, starting in the Spr
     3. Sit in on EXECUTIVE Board meetings 
     4. Do not have EXECUTIVE voting power
 
+12. **National Coordinators**
+    1. Manage, promote, and grow the organization as needed to launch a National organization of SSE
+    2. Reach out to other universities and network to expand SSE
+    3. Create structure and rules of the National organization
+    4. Do not have EXECUTIVE voting power for MSOE Chapter of SSE
+
 ## **Section 4:** Removal of an Officer
 
 Should an Executive Board member fail to uphold their responsibilities, the other Executive Board members may decide to remove the Executive Board member in question with a ⅔ majority. A special election should follow to replace the Executive Board member, and voting should occur at the next General Meeting at least two weeks in advance.
@@ -170,13 +178,16 @@ Should an Executive Board member fail to uphold their responsibilities, the othe
 ## **Section 1:** Types of Meetings
 
 1. GENERAL meetings
-    1. The cadence for GENERAL meetings is to be established within the first quarter with the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to be held on Friday at noon on weeks 2, 5, and 8 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
+    1. (BEFORE SEMESTER CONVERSION) The cadence for GENERAL meetings is to be established within the first quarter with the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to be held on Friday at noon on weeks 2, 5, and 8 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
+    2. (AFTER SEMESTER CONVERSION) The cadence for GENERAL meetings is to be established within the beginning of the term of the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to occur at least four times a semester, with a spacing of two weeks in between each meeting at minimum. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
 2. EXECUTIVE meetings
     1. The PRESIDENT or VICE-PRESIDENT should organize EXECUTIVE meetings at the beginning of each quarter to reflect changing schedules. The cadence is to be set by the Executive Board as a whole with an absolute majority, but it may not descend in frequency beyond bi-weekly meetings.
 3. SPECIAL meetings
     1. The PRESIDENT or VICE-PRESIDENT may call SPECIAL meetings with at least a ONE(1) week notice, the topic of which the organizer must decide. Attendance of the Executive Board is mandatory.
-3. SUB-CLUB meetings
+4. SUB-CLUB meetings
     1. SUB-CLUB meetings include regular meetings for each the website, game development, competitive programming, and any other team. These should be set by the respective coordinator or team lead and should be subject to change each quarter with changing schedules.
+5. JEDI (Justice, Equity, Diversity, Inclusion) meetings
+    1. If no coordinator is appointed, this planning and organization shall be assigned to the PRESIDENT or VICE-PRESIDENT. The cadence of is to be set by the Executive Board as a whole with an absolute majority, but is mandatory to hold one event specifically dedicated to the topic of JEDI (Justice, Equity, Diversity, Inclusion) once per semester.
 
 ## **Section 2:** Voting and Decision Making Process
 
@@ -184,7 +195,7 @@ All votes involving regular members will be held in person during general meetin
 
 ## **Section 3:** Location
 
-As of Fall 2018, it is encouraged to hold these meetings in CC03. Upon completion of the new building containing an office for the Organization, executive board meetings will be held in this office, and general meetings are encouraged to be held in the classroom on the first floor.
+As of Winter 2022, it is encouraged to hold these meetings in DH 446 (The Software Student Organizations Office). Executive board meetings will be held in this office, and general meetings are encouraged to be held in DH 310.
 
 ## Article V: Committees
 
@@ -201,4 +212,10 @@ The Executive Board can disband a committee by a simple majority vote conducted 
 ## **Section 1:** Amendment Process
 
 A ⅔ majority vote may amend these Articles at a general meeting. A notice and a copy of any proposed amendment shall be distributed to all members at least one meeting before the meeting at which the amendment is to be considered. The members shall be notified of adopted constitutional amendments by the most feasible means. Any member may submit amendments.
+
+## ARTICLE VII: Fundraising
+
+## **Section 1:** Fundraising Process
+
+The EXECUTIVE board (particularily the President, Vice-President, and Adminstrative Coordinator) are required to perform a yearly fundraiser towards the end of the year (by December 31st). These funds are to be spent as how it was described to the donors. SSE may opt to work the Office of University Advancement to get these funds.
 
