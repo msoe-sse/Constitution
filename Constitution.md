@@ -91,11 +91,11 @@ Members must be pursuing (or already hold) a degree from MSOE (excluding sponsor
 
 ## **Section 1:** The Executive Board
 
-The Organization's Executive Board shall consist of the President, Vice President, Secretary, and multiple Coordinators, including but not limited to Communications, Administrative, Events, Competitive Programming Team, Game Development, and Webmaster. Any REGULAR, ALUMNI, or SPONSOR member may suggest a new Coordinator position to be created. The Executive Board, including both the coordinators and executive positions, will vote on the approval of the new coordinator position. All executive positions, including chairs, must be held by a regular member. If a coordinator's status becomes inactive, a replacement will be appointed by the Executive Board from among REGULAR MEMBERS.
+The Organization's Executive Board shall consist of the President, Vice President, Secretary, and multiple Coordinators, including but not limited to Communications, Administrative, Events, Competitive Programming Team, and Webmaster. Any REGULAR, ALUMNI, or SPONSOR member may suggest a new Coordinator position to be created. The Executive Board, including both the coordinators and executive positions, will vote on the approval of the new coordinator position. All executive positions, including chairs, must be held by a regular member. If a coordinator's status becomes inactive, a replacement will be appointed by the Executive Board from among REGULAR MEMBERS.
 
 ## **Section 2:** Election of Officers
 
-Each elected officer shall hold their position for one year, starting in the beginning of March (elections must be held by the end of March at minimum). This is to allow time for the new board to be trained and to gain experience running SSE before the new school year starts. Yearly elections are to begin in the late January or throughout Feburary as determined by the board. Nominations must occur at a GENERAL meeting prior to a seperate GENERAL meeting where the vote will occur. Voting should occur by the end of Feburary in a GENERAL meeting. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
+Each elected officer shall hold their position for one year, starting in the beginning of March (elections must be held by the end of Febuary). This is to allow time for the new board to be trained and to gain experience running SSE before the new school year starts. Yearly elections are to begin in the late January or throughout Feburary as determined by the board. Nominations must occur at a GENERAL meeting prior to a seperate GENERAL meeting where the vote will occur. Voting should occur by the end of Feburary in a GENERAL meeting. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
 
 ## **Section 3:** Officer Responsibilities
 
@@ -113,27 +113,28 @@ Each elected officer shall hold their position for one year, starting in the beg
     5. Is able to view the balance of the Student Account, but not withdraw money
 
 3. **Vice President**
-    1. Serve as a liaison for University faculty and administration, industry representatives, and members of the local community
+    1. Serve as a liaison for University faculty and administration, industry representatives, other student organizations, and members of the local community
     2. Curate job postings and career opportunities
     3. Work in tandem with the President to achieve their responsibilities
+    4. Track the membership, contact info of the membership, and membership point standings
 
 4. **Administrative Coordinator**
     1. Manage general (non-event related) fundraising efforts
     2. Oversee the Organization's account (balance and reimbursements)
     3. Record minutes at General and Executive Meetings
-    4. Track regular membership point standings
 
 5. **Communications Coordinator**
-    1. Serve as a liaison for leaders of other organizations on campus
-    2. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
-    3. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
-    4. Forward high-impact updates from individual members to the general membership
+    1. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
+    2. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
+    3. Forward high-impact updates from individual members to the general membership and oversee social media
+    . Work in tandem with the Event Coordinator to promote events in all channels (Discord, Teams, Slack, Instagram, etc...)
 
 6. **Event Coordinator**
     1. Oversee/guide event committees to ensure events contribute to Organizational goals
     2. Manage SSE room and equipment reservations on the University's room reservation software
     3. Refer to the event feedback forms from the previous year when planning new or recurring events
     4. Maintain SSE event calendar
+    5. Work in tandem with the Communications Coordinator to promote events in all channels (Discord, Teams, Slack, Instagram, etc...)
 
 7. **Competitive Programming Team Coordinator**
     1. Actively recruit and develop members of the team
@@ -141,16 +142,11 @@ Each elected officer shall hold their position for one year, starting in the beg
     3. Apply for grants and scholarships to waive competition fees
         1. Maintain relationships with new and existing sponsors
 
-8. **Game Development**
-    1. Incite and maintain a conversation in the #gamedev channel
-    2. Recruit students to join ongoing projects or create their own
-    3. Showcase projects at recruitment events (such as the annual Org Fair)
-    4. Actively engage with the game development community in Milwaukee
-
 9. **Webmaster**
     1. Manage SSE website discussions and content
-    2. Maintain Organization membership and mailing lists
+    2. Work in tandem with VP to maintain Organization membership and mailing lists
     3. Manage merge requests and a backlog for said website
+    4. Reach out to other student organizations to assist with website creation as a service to the MSOE community at large
 
 10. **Alumni Outreach Coordinator**
     1. Manage and grow the Organization's alumni network
@@ -162,12 +158,6 @@ Each elected officer shall hold their position for one year, starting in the beg
     2. Are not elected by GENERAL members
     3. Sit in on EXECUTIVE Board meetings 
     4. Do not have EXECUTIVE voting power
-
-12. **National Coordinators**
-    1. Manage, promote, and grow the organization as needed to launch a National organization of SSE
-    2. Reach out to other universities and network to expand SSE
-    3. Create structure and rules of the National organization
-    4. Do not have EXECUTIVE voting power for MSOE Chapter of SSE
 
 ## **Section 4:** Removal of an Officer
 
@@ -206,6 +196,12 @@ The Executive Board has the right to create a committee by a simple majority vot
 ## **Section 2:** Committee Disbandment
 
 The Executive Board can disband a committee by a simple majority vote conducted either at a GENERAL meeting or an EXECUTIVE meeting. The Committee's information must be removed from the master list, and all of its associated notes/files must be archived for historical reference.
+
+**Expanding Committee**
+    1. Manage, promote, and grow the organization as needed to launch a National/International organization of SSE
+    2. Reach out to other universities and network to expand SSE
+    3. Create structure and rules of the National organization
+    4. Do not have EXECUTIVE voting power for MSOE Chapter of SSE, but can provide overall requirements as a leader of the organization at large
 
 ## ARTICLE VI: Amendments
 
