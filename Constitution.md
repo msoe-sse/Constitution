@@ -1,8 +1,8 @@
 # Society of Software Engineers Constitution
 
-**Last Ratified:** November 2, 2018
+**Last Ratified:** April 8, 2022
 
-**Last Edited:** April 8, 2022
+**Last Edited:** January 12th, 2023
 
 ## Table of Contents
 
@@ -73,10 +73,11 @@ Members must be pursuing (or already hold) a degree from MSOE (excluding sponsor
     1. REGULAR members are those members who have earned at least 10 points in the current quarter and have the right to vote in any non-executive organization vote. Regular members may earn points for the following:
         1. General Meeting: 10 pts
         2. Event Attendee: 5 pts
-        3. Subclub Meeting: 2 pts
-        4. Helping w/ Event/Project: 20 pts
+        3. Subclub Meeting: 3 pts
+        4. Social Media/Discord Participation (Limited Per Month): 2 pts
+        5. Helping w/ Event/Project: 20 pts
             1. Game development club, website, any event
-        5. Leadership Role in Organization/Project: 30 pts
+        6. Leadership Role in Organization/Project: 30 pts
             1. Game development club, website, any event
     2. Members with zero points at any given time are considered INACTIVE.
     3. Points reset to zero at the beginning of each quarter. A raffle will be held at the end of each quarter, and each 3 pts had by a member corresponds to one raffle entry.
@@ -90,11 +91,11 @@ Members must be pursuing (or already hold) a degree from MSOE (excluding sponsor
 
 ## **Section 1:** The Executive Board
 
-The Organization's Executive Board shall consist of the President, Vice President, Secretary, and multiple Coordinators, including but not limited to Communications, Administrative, Events, Competitive Programming Team, Game Development, and Webmaster. Any REGULAR, ALUMNI, or SPONSOR member may suggest a new Coordinator position to be created. The Executive Board, including both the coordinators and executive positions, will vote on the approval of the new coordinator position. All executive positions, including chairs, must be held by a regular member. If a coordinator's status becomes inactive, a replacement will be appointed by the Executive Board from among REGULAR MEMBERS.
+The Organization's Executive Board shall consist of the President, Vice President, Secretary, and multiple Coordinators, including but not limited to Communications, Administrative, Events, Competitive Programming Team, and Webmaster. Any REGULAR, ALUMNI, or SPONSOR member may suggest a new Coordinator position to be created. The Executive Board, including both the coordinators and executive positions, will vote on the approval of the new coordinator position. All executive positions, including chairs, must be held by a regular member. If a coordinator's status becomes inactive, a replacement will be appointed by the Executive Board from among REGULAR MEMBERS.
 
 ## **Section 2:** Election of Officers
 
-Each elected officer shall hold their position for one year, starting in the Spring term. Yearly elections are to begin in the late Winter term. Voting should occur during the last General Meeting of the Winter quarter. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
+Each elected officer shall hold their position for one year, starting in the beginning of March (elections must be held by the end of Febuary). This is to allow time for the new board to be trained and to gain experience running SSE before the new school year starts. Yearly elections are to begin in the late January or throughout Feburary as determined by the board. Nominations must occur at a GENERAL meeting prior to a seperate GENERAL meeting where the vote will occur. Voting should occur by the end of Feburary in a GENERAL meeting. Election information should be distributed at least two weeks prior. Potential candidates must be a REGULAR MEMBER and be nominated by at least one REGULAR MEMBER during the REGULAR MEETING before any election for any executive position.
 
 Non-elected officers are appointed by the Executive Board do not have EXECUTIVE voting power.
 
@@ -112,26 +113,28 @@ Non-elected officers are appointed by the Executive Board do not have EXECUTIVE 
     3. Plan and lead Executive meetings
     4. Curate organization project opportunities
     5. Work in tandem with the VP to achieve their responsibilities
+    6. Is able to view the balance of the Student Account, but not withdraw money
 
 3. **Vice President**
     1. Elected by REGULAR MEMBERS
-    2. Serve as a liaison for University faculty and administration, industry representatives, and members of the local community
+    2. Serve as a liaison for University faculty and administration, industry representatives, other student organizations, and members of the local community
     3. Curate job postings and career opportunities
     4. Work in tandem with the President to achieve their responsibilities
+    5. Track the membership, contact info of the membership, and membership point standings
 
 4. **Administrative Coordinator**
     1. Elected by REGULAR MEMBERS
     2. Manage general (non-event related) fundraising efforts
     3. Oversee the Organization's account (balance and reimbursements)
     4. Record minutes at General and Executive Meetings
-    5. Track regular membership point standings
 
 5. **Communications Coordinator**
     1. Elected by REGULAR MEMBERS
     2. Serve as a liaison for leaders of other organizations on campus
     3. Publish periodic updates to all SE students via the website (and email for larger, more infrequent announcements)
     4. Curate and distribute a quarterly newsletter with valuable information for members and stakeholders
-    5. Forward high-impact updates from individual members to the general membership
+    5. Forward high-impact updates from individual members to the general membership and oversee social media . Work in tandem with the Event Coordinator to promote events in all channels (Discord, Teams, Slack, Instagram, etc...)
+
 
 6. **Event Coordinator**
     1. Elected by REGULAR MEMBERS
@@ -139,6 +142,7 @@ Non-elected officers are appointed by the Executive Board do not have EXECUTIVE 
     3. Manage SSE room and equipment reservations on the University's room reservation software
     4. Refer to the event feedback forms from the previous year when planning new or recurring events
     5. Maintain SSE event calendar
+    6. Work in tandem with the Communications Coordinator to promote events in all channels (Discord, Teams, Slack, Instagram, etc...)
 
 7. **Competitive Programming Team Coordinator**
     1. Actively recruit and develop members of the team
@@ -146,18 +150,13 @@ Non-elected officers are appointed by the Executive Board do not have EXECUTIVE 
     3. Apply for grants and scholarships to waive competition fees
         1. Maintain relationships with new and existing sponsors
 
-8. **Game Development**
-    1. Incite and maintain a conversation in the #gamedev channel
-    2. Recruit students to join ongoing projects or create their own
-    3. Showcase projects at recruitment events (such as the annual Org Fair)
-    4. Actively engage with the game development community in Milwaukee
-
-9. **Webmaster**
+8. **Webmaster**
     1. Manage SSE website discussions and content
-    2. Maintain Organization membership and mailing lists
+    2. Work in tandem with VP to maintain Organization membership and mailing lists
     3. Manage merge requests and a backlog for said website
+    4. Reach out to other student organizations to assist with website creation as a service to the MSOE community at large
 
-10. **Alumni Outreach Coordinator**
+9. **Alumni Outreach Coordinator**
     1. Are appointed by the EXECUTIVE Board 
     2. Must have been on the EXECUTIVE Board before being granted Alumni Status
     3. Appointed Officer needs to be at least two years out from graduation
@@ -165,10 +164,11 @@ Non-elected officers are appointed by the Executive Board do not have EXECUTIVE 
     5. Solicit donations from alumni as needed
     6. Provide guidance and membership for student board members
 
-11. **External Coordinators**
+10. **External Coordinators**
     1. Are appointed by the EXECUTIVE Board 
     2. Are subject to this document and any rules and regulations of their Organization 
-    4. Sit in on EXECUTIVE Board meetings 
+    3. Sit in on EXECUTIVE Board meetings 
+    4. Do not have EXECUTIVE voting power
 
 ## **Section 4:** Removal of an Officer
 
@@ -179,13 +179,16 @@ Should an Executive Board member fail to uphold their responsibilities, the othe
 ## **Section 1:** Types of Meetings
 
 1. GENERAL meetings
-    1. The cadence for GENERAL meetings is to be established within the first quarter with the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to be held on Friday at noon on weeks 2, 5, and 8 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
+    1. (BEFORE SEMESTER CONVERSION) The cadence for GENERAL meetings is to be established within the first quarter with the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to be held on Friday at noon on weeks 2, 5, and 8 of each academic quarter. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
+    2. (AFTER SEMESTER CONVERSION) The cadence for GENERAL meetings is to be established within the beginning of the term of the new Executive Board. At the time of this revision, the current executive board has decided that General meetings are to occur at least four times a semester, with a spacing of two weeks in between each meeting at minimum. The purpose of GENERAL meetings is to conduct votes, discuss the direction of the Organization, and inform the members of upcoming events and opportunities.
 2. EXECUTIVE meetings
     1. The PRESIDENT or VICE-PRESIDENT should organize EXECUTIVE meetings at the beginning of each quarter to reflect changing schedules. The cadence is to be set by the Executive Board as a whole with an absolute majority, but it may not descend in frequency beyond bi-weekly meetings.
 3. SPECIAL meetings
     1. The PRESIDENT or VICE-PRESIDENT may call SPECIAL meetings with at least a ONE(1) week notice, the topic of which the organizer must decide. Attendance of the Executive Board is mandatory.
-3. SUB-CLUB meetings
+4. SUB-CLUB meetings
     1. SUB-CLUB meetings include regular meetings for each the website, game development, competitive programming, and any other team. These should be set by the respective coordinator or team lead and should be subject to change each quarter with changing schedules.
+5. JEDI (Justice, Equity, Diversity, Inclusion) meetings
+    1. If no coordinator is appointed, this planning and organization shall be assigned to the PRESIDENT or VICE-PRESIDENT. The cadence of is to be set by the Executive Board as a whole with an absolute majority, but is mandatory to hold one event specifically dedicated to the topic of JEDI (Justice, Equity, Diversity, Inclusion) once per semester.
 
 ## **Section 2:** Voting and Decision Making Process
 
@@ -193,7 +196,7 @@ All votes involving regular members will be held in person during general meetin
 
 ## **Section 3:** Location
 
-As of Fall 2018, it is encouraged to hold these meetings in CC03. Upon completion of the new building containing an office for the Organization, executive board meetings will be held in this office, and general meetings are encouraged to be held in the classroom on the first floor.
+As of Winter 2022, it is encouraged to hold these meetings in DH 446 (The Software Student Organizations Office). Executive board meetings will be held in this office, and general meetings are encouraged to be held in DH 310.
 
 ## Article V: Committees
 
@@ -204,6 +207,14 @@ The Executive Board has the right to create a committee by a simple majority vot
 ## **Section 2:** Committee Disbandment
 
 The Executive Board can disband a committee by a simple majority vote conducted either at a GENERAL meeting or an EXECUTIVE meeting. The Committee's information must be removed from the master list, and all of its associated notes/files must be archived for historical reference.
+
+## **Section 3:** List of Committees
+
+Expanding Committee
+1. Manage, promote, and grow the organization as needed to launch a National/International organization of SSE
+2. Reach out to other universities and network to expand SSE
+3. Create structure and rules of the National organization
+4. Do not have EXECUTIVE voting power for MSOE Chapter of SSE, but can provide overall requirements as a leader of the organization at large
 
 ## ARTICLE VI: Amendments
 
