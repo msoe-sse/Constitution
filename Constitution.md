@@ -208,14 +208,6 @@ The Executive Board has the right to create a committee by a simple majority vot
 
 The Executive Board can disband a committee by a simple majority vote conducted either at a GENERAL meeting or an EXECUTIVE meeting. The Committee's information must be removed from the master list, and all of its associated notes/files must be archived for historical reference.
 
-## **Section 3:** List of Committees
-
-Expanding Committee
-1. Manage, promote, and grow the organization as needed to launch a National/International organization of SSE
-2. Reach out to other universities and network to expand SSE
-3. Create structure and rules of the National organization
-4. Do not have EXECUTIVE voting power for MSOE Chapter of SSE, but can provide overall requirements as a leader of the organization at large
-
 ## ARTICLE VI: Amendments
 
 ## **Section 1:** Amendment Process
