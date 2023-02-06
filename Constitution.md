@@ -1,6 +1,6 @@
 # Society of Software Engineers Constitution
 
-**Last Ratified:** April 8, 2022
+**Last Ratified:** Febuary 3rd, 2023
 
 **Last Edited:** January 12th, 2023
 
